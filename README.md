@@ -14,3 +14,5 @@ opencv-python
 pytorch==1.13.1  
 torchvision==0.14.1  
 torchaudio==0.13.1  
+
+![result](https://github.com/result_collect/DQN_result)
