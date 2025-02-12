@@ -4,7 +4,6 @@
 
 ## REQUIRMENT
 jupyter==1.0.0
-
 ipykernel==5.1.1
 numpy==1.21.6
 pandas==1.3.5
@@ -12,6 +11,6 @@ gym==0.22
 torch==1.13.1
 matplotlib
 opencv-python
-pytorch==1.13.1 
-torchvision==0.14.1 
-torchaudio==0.13.1 
+pytorch==1.13.1
+torchvision==0.14.1
+torchaudio==0.13.1
