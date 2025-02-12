@@ -4,6 +4,7 @@
 
 ## REQUIRMENT
 jupyter==1.0.0
+
 ipykernel==5.1.1
 numpy==1.21.6
 pandas==1.3.5
